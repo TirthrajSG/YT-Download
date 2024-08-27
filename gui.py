@@ -141,7 +141,7 @@ defaultextension=".png",filetypes=[("All Files","*.*"),("PNG","*.png"),("JPG","*
 def share(i):
 
     if i == 1:
-        webbrowser.open('https://github.com/TirthrajSG')
+        webbrowser.open('https://github.com/TirthrajSG/YT-Download')
     elif i == 2:
         webbrowser.open('https://www.youtube.com/@indianprayers6091')
     else:
