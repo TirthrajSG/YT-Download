@@ -1,0 +1,5 @@
+pillow==10.4.0
+pytube==15.0.0
+requests==2.25.1
+tk-tools==0.16.0
+youtube-dl==2021.12.17
